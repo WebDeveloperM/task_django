@@ -5,7 +5,7 @@
 
 ### Running project
 1. Clone repository 'https://github.com/WebDeveloperM/task_django.git'
-2. Run virtual environment `\venv\Scripts\activate.bat` for Windows
+2. Run virtual environment `\venv\Scripts\activate.bat` for Windows <br/>
    Run virtual environment `\venv\Scripts\activate` for MacOs
 3. Run server `python manage.py runserver`
 
