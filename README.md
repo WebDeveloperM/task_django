@@ -11,7 +11,7 @@
 ## Development Environment
 
 ### Tools
-1. [Python 3.7](https://www.python.org/) or higher
+1. [Python 3.11](https://www.python.org/) or higher
 2. [VSCode](https://code.visualstudio.com/) optional
 
 ### VSCode extensions
