@@ -12,9 +12,7 @@
 
 ### Tools
 1. [Python 3.7](https://www.python.org/) or higher
-2. [Virtualenv Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) for Mac OS or [Virtualenv Wrapper Win](https://pypi.org/project/virtualenvwrapper-win/) for Windows
-3. [VSCode](https://code.visualstudio.com/) optional
-
+2. [VSCode](https://code.visualstudio.com/) optional
 
 ### VSCode extensions
 1. `ESLint` Required
